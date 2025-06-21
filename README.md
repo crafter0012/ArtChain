@@ -24,4 +24,5 @@ The vision of ArtChain is to empower digital artists by providing a decentralize
 **Contract Address:** _To be filled after deployment_  
 **Network:** CoreTestnet (or other networks as per deployment)  
 **Deployed By:** _To be filled after deployment_
-
+0x3408553C2813710a0625A9086b54fe9EF1c6FF38
+![image](https://github.com/user-attachments/assets/e3c394ad-8dda-4510-a2ec-c158836371c6)
